@@ -361,7 +361,7 @@ public class Main extends javax.swing.JFrame {
         });
 
         jLabel10.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
-        jLabel10.setText("Stock Control");
+        jLabel10.setText("Stock Cont");
         jLabel10.setToolTipText("");
 
         jLabel17.setBackground(new java.awt.Color(204, 204, 204));
